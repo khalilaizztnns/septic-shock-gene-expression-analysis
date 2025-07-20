@@ -4,3 +4,8 @@ Using whole blood gene expression data from children (age ≤10 years) within th
 Data downloaded from Gene Expression Omnibus (https://www.ncbi.nlm.nih.gov/geo/) 
 
 Annotation file for GPL570 can be downloaded from https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL570
+
+## Contributors:
+1. Aulia Nisrina Rosanita
+2. Cecylia Ongso Putri
+3. Pinky Siwi Nastiti
